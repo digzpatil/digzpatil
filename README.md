@@ -3,6 +3,11 @@ Experience in Docker, Kubernetes, Azure, AWS, and Micro-services architecture ex
 Exposure to frontend technologies (HTML, CSS, JavaScript) with React framework 
 
 If you share my curiosity and passion for technology, you'll find something intriguing in this repository. I've poured my enthusiasm into every project and experiment, and I hope they spark your interest as well.
+
+Connect me 
+Email: digvijay.patil2202@gmail.com
+LinkedIn: https://www.linkedin.com/in/digvijaypatil2202/
+
 <!---
 digzpatil/digzpatil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
